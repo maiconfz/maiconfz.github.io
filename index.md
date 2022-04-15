@@ -11,9 +11,9 @@ I've also have a [wordpress website](https://maiconfz.wordpress.com/) where I tr
 ### My repositories
 
 - Playground (for testing stuff)
-  - [java-playground](https://github.com/Maiconfz/java-playground)
-  - [angular-playground](https://github.com/Maiconfz/angular-playground)
-  - [docker-playground](https://github.com/Maiconfz/docker-playground)
+  - [java-playground](https://github.com/maiconfz/java-playground)
+  - [angular-playground](https://github.com/maiconfz/angular-playground)
+  - [docker-playground](https://github.com/maiconfz/docker-playground)
 
 ### Contact me
 
